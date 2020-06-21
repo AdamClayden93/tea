@@ -2,7 +2,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
                                                   Target Embedding Algorithm
 ----------------------------------------------------------------------------------------------------------------------------------------
-The Target Embedding Algorithm (T.E.A.) is a method to automatically insert target letters based on differences in contrast between it and the image. This allows the experimenter to adjust the perceived difficulty of a target location (e.g. the median contrast change will yield a 'medium difficulty' location). It also allows for targets of varying sizes to keep the same target location due to the TEA summing each contrast difference map, and operating on that.
+The Target Embedding Algorithm (T.E.A.) is a method to automatically insert target letters based on differences in contrast between the letter and the image. This allows the experimenter to adjust the perceived difficulty of a target location (e.g. the median contrast change will yield a 'medium difficulty' location). It also allows for targets of varying sizes to keep the same target location due to the TEA summing each contrast difference map, and operating on that.
+
+Please see Clayden, Nuthmann, Fisher (in review) or Clayden (2019): https://era.ed.ac.uk/handle/1842/35932 for an overview.
 
 **How to use:**
 
