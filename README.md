@@ -8,47 +8,41 @@ How to use:
 The algorithm currently supports up to 4 target sizes, with a number of variables for you to adjust in the TargetEmbeddingAlgorithm() function
 
 These are:
-imagePath % path where your images are stored
 
-exportPath % path you wish to export final images to
+* imagePath - path where your images are stored
 
-img_info % path containing a list of image names from (e.g. .xls file)
+* exportPath - path you wish to export final images to
 
-columnName % name of the column to read image names from
+* img_info - path containing a list of image names from (e.g. .xls file)
 
-% image width and height (e.g. 800x600)
-desiredImageWidth
-desiredImageHeight
+* columnName - name of the column to read image names from
 
-% monitor values
-x_monitor % visible monitor width (cm)
-y_monitor % visible monitor height (cm)
+* image width and height (e.g. 800x600) a) desiredImageWidth b) desiredImageHeight
+
+* monitor values: x_monitor (visible monitor width (cm)) y_monitor (visible monitor height (cm))
     
-% distance between monitor and subject (cm)
-MonitorSubjectDistance
+* distance between monitor and subject (cm): MonitorSubjectDistance
 
-% radius of the central circular exclusion mask in degrees
-radius_deg
-% size of a region buffer to place around the target to define the region size
-region_buffer
+* radius of the central circular exclusion mask in degrees: radius_deg
+
+* size of a region buffer to place around the target to define the region size: region_buffer
     
-%thickness of the letter
-%These are example values that you can change
+* thickness of the letter
+*These are example values that you can change*
 horizontalWidth = [1 2 2 4];
 verticalWidth = [1 3 3 5];
     
-%actual width and height
-%These are example values that you can change
+* actual width and height
+*These are example values that you can change*
 widthVector = [7 13 19 33];
 heightVector = [9 16 23 40];
     
-%the index of each target size, with the length being the count
+* the index of each target size, with the length being the count
 letterMatrix = [1 2 3 4];
     
-valueType % supports: Min, Lower Quartile, Median, Upper Quartile, Max
+* valueType - supports: Min, Lower Quartile, Median, Upper Quartile, Max
     
-placeWithTypeThreshold %Change this to find suitable locations based on a certain target size.
-Largest size is recommended and is defined by the number within letterMatrix. E.g. 1, 2, 3, etc
+* placeWithTypeThreshold - Change this to find suitable locations based on a certain target size. Largest size is recommended and is defined by the number within letterMatrix. E.g. 1, 2, 3, etc
 
 After you have entered the desired values, the algorithm will then:
 
