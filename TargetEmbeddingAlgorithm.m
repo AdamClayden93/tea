@@ -98,8 +98,7 @@ end
 function PrepareImages(img_info, res_x, res_y, imagePath)
     global finalImageData nrScenes columnName
     imageList = img_info{:,columnName};
-    nrScenes = 1;
-    %nrScenes = size(img_info,1);
+    nrScenes = size(img_info,1);
     
     finalImageData = cell(nrScenes,1);
     
