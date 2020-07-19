@@ -3,6 +3,10 @@
 % Author:   Adam Clayden
 % Date:     02/05/2020
 % Note:		Currently supports 4 target sizes only
+% To use this please cite: Clayden, A. C., Fisher, R. B., & Nuthmann, A. (in press).
+% On the relative (un)importance of foveal vision during letter search in naturalistic scenes. Vision Research.
+% A preprint of this in-press article is available at https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf;
+% the T.E.A. is available at https://github.com/AdamClayden93/tea.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function TargetEmbeddingAlgorithm()
