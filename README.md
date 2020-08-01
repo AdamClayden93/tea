@@ -1,7 +1,7 @@
 # T.E.A.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">Target Embedding Algorithm</span></div>
+<span style="color:red; font-family:Georgia; text-align:center; font-size:2em;">Target Embedding Algorithm</span>
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
