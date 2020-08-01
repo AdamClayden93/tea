@@ -3,6 +3,8 @@
                                                   <p align="center">Target Embedding Algorithm</p>
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span></div>
+
 <img src='./TeaGif-min.gif'>
 
 **To use this please cite: Clayden, A. C., Fisher, R. B., & Nuthmann, A. (in press). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. Vision Research. A preprint of this in-press article is available at https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf**
