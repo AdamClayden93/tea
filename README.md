@@ -1,9 +1,7 @@
 # tea
 ----------------------------------------------------------------------------------------------------------------------------------------
-                                                  <p align="center">Target Embedding Algorithm</p>
+<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">Target Embedding Algorithm</span></div>
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF): helping women business owners become financially self-sufficient.</span></div>
 
 <img src='./TeaGif-min.gif'>
 
