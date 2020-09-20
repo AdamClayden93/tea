@@ -5,7 +5,7 @@
 <img src='./TeaGif-min.gif'>
 
 **To use this please cite:  <br />
-Clayden, A. C., Fisher, R. B., & Nuthmann, A. (2020). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. Vision Research, 177, 41-55. https://doi.org/10.1016/j.visres.2020.07.005  
+Clayden, A. C., Fisher, R. B., & Nuthmann, A. (2020). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. _Vision Research, 177,_ 41-55. https://doi.org/10.1016/j.visres.2020.07.005  
 free access until 08 Nov 2020: https://authors.elsevier.com/a/1bmQi_%7E8fPSwd  <br />
 preprint: https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf**
 
