@@ -4,11 +4,6 @@
 
 <img src='./TeaGif-min.gif'>
 
-**To use this please cite:  <br />
-Clayden, A. C., Fisher, R. B., & Nuthmann, A. (2020). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. _Vision Research, 177,_ 41-55. https://doi.org/10.1016/j.visres.2020.07.005**  
-free access until 08 Nov 2020: https://authors.elsevier.com/a/1bmQi_%7E8fPSwd  <br />
-preprint: https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf
-
 The Target Embedding Algorithm (T.E.A.) is a method to automatically insert target letters based on differences in contrast between the letter and the image. This allows the experimenter to adjust the perceived difficulty of a target location (e.g. the median contrast change will yield a 'medium difficulty' location). It also allows for targets of varying sizes to keep the same target location due to the TEA summing each contrast difference map, and operating on that.
 
 For FAQs on the T.E.A.'s workings, [visit the wiki!](https://github.com/AdamClayden93/tea/wiki)
@@ -62,3 +57,12 @@ After you have entered the desired values, the algorithm will then:
 * Generate the contrast difference maps (CDMs)
 * Generate the summed difference map based on the CDMs for each target size
 * Obtain location coordinates, embed target and write final images to export path
+
+**To use this please cite:  <br />
+Clayden, A. C., Fisher, R. B., & Nuthmann, A. (2020). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. _Vision Research, 177,_ 41-55. https://doi.org/10.1016/j.visres.2020.07.005**  
+free access until 08 Nov 2020: https://authors.elsevier.com/a/1bmQi_%7E8fPSwd  <br />
+preprint: https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf
+
+<img src='./Clayden.VisionRes.177.2020.41_graphical_abstract.tiff'>
+
+
