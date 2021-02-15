@@ -157,7 +157,7 @@ function noOfLetters = GenerateDifferenceMaps(desiredImageWidth, desiredImageHei
             contrast_map_withoutLet = ones(desiredImageHeight,desiredImageWidth)*NaN;
             currentImage = finalImageData{iIndex}.image;
             currentName  = finalImageData{iIndex}.name; % get current image name
-            meanCimg     = quantile(currentImage(:),0.50);
+            meanCimg     = mean(currentImage(:));
             fprintf(['processing image ',num2str(iIndex),currentName])
             % move letter pixelwise and calculate local contrast
             for rowIndex = rowStart:rowabsEnd % rowStart:desiredImageHeight % row
@@ -173,7 +173,7 @@ function noOfLetters = GenerateDifferenceMaps(desiredImageWidth, desiredImageHei
                     % compute local contrast for box *with* letter
                     vec = reshape(newSection,size(newSection,1)*size(newSection,2),1);
                     dev = std(double(vec));
-                    lcontrast    = dev/quantile(newImage(:),0.50);
+                    lcontrast    = dev/mean(newImage(:));
                     contrast_map_withLet(rowIndex,colIndex) = lcontrast;
                     % compute local contrast for box *without* letter
                     oldSection = currentImage(rowIndex-region_size/2:rowIndex+region_size/2,colIndex-region_size/2:colIndex+region_size/2);
