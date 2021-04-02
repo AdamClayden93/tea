@@ -60,9 +60,9 @@ After you have entered the desired values, the algorithm will then:
 
 **If you use the T.E.A. for your own research, please cite:  <br />
 Clayden, A. C., Fisher, R. B., & Nuthmann, A. (2020). On the relative (un)importance of foveal vision during letter search in naturalistic scenes. _Vision Research, 177,_ 41-55. https://doi.org/10.1016/j.visres.2020.07.005**  
-free access until 08 Nov 2020: https://authors.elsevier.com/a/1bmQi_%7E8fPSwd  <br />
 preprint: https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf
 
 <img src='./Clayden.VisionRes.177.2020.41_graphical_abstract.tiff'>
 
+**Nuthmann, A., Clayden, A. C., & Fisher, R. B. (2021). The effect of target salience and size in visual search within naturalistic scenes under degraded vision. _Journal of Vision, 21,_(4):2, 1-26. https://doi.org/10.1167/jov.21.4.2**  
 
