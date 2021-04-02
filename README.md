@@ -64,5 +64,5 @@ preprint: https://homepages.inf.ed.ac.uk/rbf/PAPERS/ACunimportance.pdf
 
 <img src='./Clayden.VisionRes.177.2020.41_graphical_abstract.tiff'>
 
-**Nuthmann, A., Clayden, A. C., & Fisher, R. B. (2021). The effect of target salience and size in visual search within naturalistic scenes under degraded vision. _Journal of Vision, 21,_(4):2, 1-26. https://doi.org/10.1167/jov.21.4.2**  
+**Nuthmann, A., Clayden, A. C., & Fisher, R. B. (2021). The effect of target salience and size in visual search within naturalistic scenes under degraded vision. _Journal of Vision, 21_(4):2, 1-26. https://doi.org/10.1167/jov.21.4.2**  
 
